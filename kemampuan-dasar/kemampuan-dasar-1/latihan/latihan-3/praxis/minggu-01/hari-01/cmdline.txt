@@ -1,0 +1,122 @@
+andri-imanudin@andri-imanudin:~$ ls
+Desktop    Downloads        Music     Videos    模板
+Documents  kemampuan-dasar  Pictures  weekcamp
+
+####################################################
+andri-imanudin@andri-imanudin:~$ ls -R
+.:
+Desktop    Downloads        Music     Videos    模板
+Documents  kemampuan-dasar  Pictures  weekcamp
+
+./Desktop:
+
+./Documents:
+ipk.xlsx
+
+./Downloads:
+217_PERNYATAAN BEBAS PLAGIASI.docx
+Form-Persyaratan-Yudisium (1).doc
+iboy-shapiro-priaidamansejaticom.zip
+imageedit_2_6940584614.jpg
+Lomba Menulis Tema Bebas Hadiah Smartphone, Uang, Flashdisk, Pulsa dan Sertifikat Semua Peserta.png
+PONDOK PESANTREN MIFTAHUSSALAM (1).png
+PONDOK PESANTREN MIFTAHUSSALAM (2).png
+PONDOK PESANTREN MIFTAHUSSALAM.png
+Transkrip Sementara Semester Genap 2018-2019.pdf
+
+./kemampuan-dasar:
+kemampuan-dasar-1
+
+./kemampuan-dasar/kemampuan-dasar-1:
+
+./Music:
+bensound-sunny.mp3  Recordings
+
+./Music/Recordings:
+
+./Pictures:
+Autumn_in_Kanas_by_Wang_Jinyu.jpg
+Balloon_by_Matt_Benson.jpg
+Beach_by_Samuel_Scrimshaw.jpg
+desktop.jpg
+Flowing_Ribbon.jpg
+Flying_Whale_by_Shu_Le.jpg
+Grassland_Scenery_by_Shi_Yuejun.jpg
+Hummingbird_by_Shu_Le.jpg
+Overlooking_by_Lance_Asper.jpg
+Paper_Architecture_by_Dmitri_Popov.jpg
+Reflection_of_the_Kanas_Lake_by_Wang_Jinyu.jpg
+Scenery_in_Plateau_by_Arto_Marttinen.jpg
+Sunset_of_the_Lake_Nam_by_Wang_Jinyu.jpg
+The_Gongga_Mountain_by_wangjinyu.jpg
+
+./Videos:
+Lomba Menulis GRATIS Tema Bebas Hadiah Smartphone, Uang, Flashdisk, Pulsa dan Sertifikat Semua PesertaLomba Menulis GRATIS Tema Bebas Hadiah Smartphone, Uang, Flashdisk, Pulsa dan Sertifikat Semua Peserta - semangat27Sumber httpswww.semangat27.com2019.mkv
+
+./weekcamp:
+kemampuan-dasar  Novice  README.md
+
+./weekcamp/kemampuan-dasar:
+kemampuan-dasar-1
+
+./weekcamp/kemampuan-dasar/kemampuan-dasar-1:
+kasus  latihan
+
+./weekcamp/kemampuan-dasar/kemampuan-dasar-1/kasus:
+
+./weekcamp/kemampuan-dasar/kemampuan-dasar-1/latihan:
+latihan-1.md  latihan-2.md  latihan-3
+
+./weekcamp/kemampuan-dasar/kemampuan-dasar-1/latihan/latihan-3:
+praxis
+
+./weekcamp/kemampuan-dasar/kemampuan-dasar-1/latihan/latihan-3/praxis:
+minggu-01
+
+./weekcamp/kemampuan-dasar/kemampuan-dasar-1/latihan/latihan-3/praxis/minggu-01:
+hari-01
+
+./weekcamp/kemampuan-dasar/kemampuan-dasar-1/latihan/latihan-3/praxis/minggu-01/hari-01:
+
+./weekcamp/Novice:
+01-01
+
+./weekcamp/Novice/01-01:
+coba.txt
+
+./模板:
+DOCX 文档.docx  PPTX 演示文稿.pptx  XLSX 工作表.xlsx
+DOC 文档.doc    PPT 演示文稿.ppt    XLS 工作表.xls
+
+####################################################
+andri-imanudin@andri-imanudin:~$ ls -a
+.              .dbus       .gtkrc-2.0       .pki        weekcamp
+..             Desktop     .icons           .profile    .Xauthority
+.bash_history  Documents   .imwheelrc       .Public     .xsession-errors
+.bash_logout   Downloads   kemampuan-dasar  .Templates  .xsession-errors.old
+.bashrc        .gconf      .local           .themes     模板
+.cache         .gitconfig  Music            Videos
+.config        .gnupg      Pictures         .vscode
+
+####################################################
+andri-imanudin@andri-imanudin:~$ alias ls='ls -a'
+andri-imanudin@andri-imanudin:~$ ls
+.	       .dbus	   .gtkrc-2.0	    .pki	weekcamp
+..	       Desktop	   .icons	    .profile	.Xauthority
+.bash_history  Documents   .imwheelrc	    .Public	.xsession-errors
+.bash_logout   Downloads   kemampuan-dasar  .Templates	.xsession-errors.old
+.bashrc        .gconf	   .local	    .themes	模板
+.cache	       .gitconfig  Music	    Videos
+.config        .gnupg	   Pictures	    .vscode
+andri-imanudin@andri-imanudin:~$ 
+
+###################################################
+andri-imanudin@andri-imanudin:~$ alias ls=ls
+andri-imanudin@andri-imanudin:~$ ls
+Desktop    Downloads	    Music     Videos	模板
+Documents  kemampuan-dasar  Pictures  weekcamp
+andri-imanudin@andri-imanudin:~$ 
+
+###################################################
+andri-imanudin@andri-imanudin:~$ cd weekcamp
+andri-imanudin@andri-imanudin:~/weekcamp$ 
