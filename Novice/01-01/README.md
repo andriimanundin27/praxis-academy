@@ -1,4 +1,4 @@
-# Minggu 01 Hari 01
+# Minggu 01 Hari 01 : Ecosystems and Basic JavaScript Programming
 
 # Install Node.js on Deepin
 ``` 
