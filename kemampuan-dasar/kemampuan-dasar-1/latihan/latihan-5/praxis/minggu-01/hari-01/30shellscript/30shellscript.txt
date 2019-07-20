@@ -1,0 +1,14 @@
+andri-imanudin@andri-imanudin:~/example$ echo "Hello World"
+Hello World
+andri-imanudin@andri-imanudin:~/example$ nano First.sh
+andri-imanudin@andri-imanudin:~/example$ chmod a+x First.sh
+andri-imanudin@andri-imanudin:~/example$ ./First.sh
+Hello World
+
+andri-imanudin@andri-imanudin:~/example$ code echo_example.sh
+andri-imanudin@andri-imanudin:~/example$ bash echo_example.sh
+Printing text with newline
+Printing text without newline
+Removing 	 backslash 	 characters
+
+
