@@ -14,11 +14,15 @@ sudo apt-get install node nodejs-bin
 - Tujuan Node.js : supaya js bisa berjalan diluar web browser
 - Tujuan npm : untuk membuat/menginstall/share package yg dibuat
 
+#### cek version
+
 `node -v`
 > v10.15.3
 
 `npm -v`
 > 6.4.1
+
+#### [npm command](https://medium.com/beginners-guide-to-mobile-web-development/introduction-to-npm-and-basic-npm-commands-18aa16f69f6b)
 
 `npm init`
 > This utility will walk you through creating a package.json file.
