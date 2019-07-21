@@ -49,3 +49,10 @@
 
 `user="yes"`
 > TypeError: Assignment to constant variable.
+
+## Sum Object Property
+#### You can run SumObjectProperty.js
+
+## Multiply Numeric Properties By 2
+#### You can run MultiplyNumericPropertiesBy2.js
+
