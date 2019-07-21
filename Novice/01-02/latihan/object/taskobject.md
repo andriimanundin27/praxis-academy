@@ -55,4 +55,3 @@
 
 ## Multiply Numeric Properties By 2
 #### You can run MultiplyNumericPropertiesBy2.js
-

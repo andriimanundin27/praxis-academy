@@ -67,3 +67,9 @@ arr.push(function() {
 
 `arr[2]`
 >[Function]
+
+## Sum Input Numbers
+#### run SumInputNumbers.js 
+
+## A Maximal Subarray
+#### run aMaximalSubarray.js
