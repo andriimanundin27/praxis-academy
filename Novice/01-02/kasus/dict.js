@@ -8,4 +8,4 @@ map.set('bird', 'burung')
 console.log(map.get("bird"))
 console.log(map.delete("bird"))
 
-// u can see it http://lengkapin.000webhostapp.com/kamus.html
+// u can see it http://lengkapin.000webhostapp.com/dict.html
